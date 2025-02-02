@@ -4,7 +4,9 @@ This repository showcases a Python-based ball bouncing game, designed to compare
 
 ## Prompt Used
 
-#### "Write a Python program that shows a ball bouncing inside a spinning hexagon. The ball should be affected by gravity and friction, and it must bounce off the rotating walls realistically."
+```plaintext
+Write a Python program that shows a ball bouncing inside a spinning hexagon. The ball should be affected by gravity and friction, and it must bounce off the rotating walls realistically.
+```
 
 ## Project Overview
 
